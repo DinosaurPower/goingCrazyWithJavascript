@@ -1,1 +1,1 @@
-# goingCrazyWithJavascript
+# Going Crazy With Javascript
